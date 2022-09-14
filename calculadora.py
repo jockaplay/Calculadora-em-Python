@@ -1,7 +1,5 @@
-from cProfile import label
 from tkinter import *
 from tkinter import ttk
-from turtle import width
 
 halfBlack = "#292929"
 white = "#feffff"
